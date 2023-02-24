@@ -30,7 +30,7 @@ If you can't or don't want to run and install locally, you can work with this re
 Clone this repo
 
 ```
-git clone https://github.com/PatrickAlphaC/ethers-simple-storage
+git clone https://github.com/n-dcool/ethers-simple-storage
 cd ethers-simple-storage
 ```
 
@@ -126,3 +126,6 @@ USE A METAMASK THAT DOESNT HAVE ANY REAL FUNDS IN IT. Just in case you accidenta
 ```
 node deploy.js
 ```
+
+### Credit
+Learned from [@Patrick_Collins](https://github.com/PatrickAlphaC) in FreeCodeCamp 🥳.
