@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "compile": "solcjs --bin --abi --include-path node_modules/ --base-path . -o . SimpleStorage.sol"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.4",
+    "fs-extra": "^11.1.0",
+    "prettier": "^2.8.4",
+    "prettier-plugin-solidity": "^1.1.2",
+    "solc": "0.8.7-fixed"
+  }
+}
